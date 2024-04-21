@@ -1,0 +1,13 @@
+.bgsw {
+    background: linear-gradient(rgb(0, 0, 0),rgb(9, 0, 51), rgb(7, 0, 37), rgb(28, 0, 39));
+}
+.text-dark {
+    text-shadow: 0px 0px 10px white ;
+    font-family: 'Protest Guerrilla', sans-serif;
+}
+.h1ww {
+    position: absolute
+}
+h5 {
+    color: aliceblue;
+}
